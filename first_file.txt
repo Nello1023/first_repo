@@ -1,1 +1,2 @@
 first file filed
+Second manipulation on a text to test GIT
