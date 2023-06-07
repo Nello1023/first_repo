@@ -3,3 +3,6 @@ Hello,
 My name is Antonell Michele Rega. I have done a master's degree in actuarial science at the University of Lausanne. During this master, I learned to code on VBA. Now, I'm actually working as an actuary in Lausanne. I began to work in life insurance where I learned to code on Python without dealing a lot of with data (we received data and simulated cashflow throw time). Then, I switch position in non-life insurance where I work with Power BI and Tableau where I learned to explore data. Due to the security system and limitation of licence, I principaly explore data with Excel.
 
 I expect with this program to improve my skills in python programming and in data analysis. I want also to understand the mathematics behind the machine learnings so I could use it to create new statistical model and explain it to the non initiates in mathematics. Also, I hope to learn the management of the data from the creation of the data (how to recolt them) to the vizualisation in charts. In a way I'll be capable to identify the weaknesses in the process of the analysis.
+
+Kind regards,
+Antonello Michele Rega
